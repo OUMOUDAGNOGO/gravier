@@ -1,6 +1,6 @@
   =>  Template Name    : GravierbyOumou_Mali
 
-  =>  Template Link    : https://htmlcodex.com/Gravierbyoum-website-template
+  =>  Template Link    : https://htmlcodex.com/Gravierbyoum-website
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
