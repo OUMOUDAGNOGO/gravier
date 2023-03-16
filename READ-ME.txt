@@ -1,10 +1,10 @@
-  =>  Template Name    : Builderz - Construction Company Website Template
+  =>  Template Name    : GravierbyOumou_Mali
 
-  =>  Template Link    : https://htmlcodex.com/construction-company-website-template
+  =>  Template Link    : https://htmlcodex.com/Gravierbyoum-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : Oumou Dagnogo
 
   =>  Author Website   : https://htmlcodex.com
 
